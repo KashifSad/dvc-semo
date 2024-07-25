@@ -1,0 +1,4 @@
+[core]
+    remote = my-new-remote
+['remote "my-new-remote"']
+    url = E:\dvc-data
